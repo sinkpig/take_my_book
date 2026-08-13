@@ -1,4 +1,4 @@
-Take My Book is a marketplace for trading and lending books. Built as part of Le Wagon's 6 month Web Development bootcamp.
+Take My Book is a marketplace for trading and lending books. Built as part of Le Wagon's 6 month Web Development bootcamp. iT uses Ruby, Ruby on Rails and PostgreSQL as well as bootstrap in the front end.
 
 ----------
 
